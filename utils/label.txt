@@ -1,0 +1,50 @@
+0  :  ăn mừng
+1  :  an ủi
+2  :  áp dụng
+3  :  băn khoăn
+4  :  bế mạc
+5  :  bệnh nhân
+6  :  biết
+7  :  biếu tặng
+8  :  bộ y tế
+9  :  các ly
+10  :  cám dỗ
+11  :  cảm ơn
+12  :  cần
+13  :  chấp nhận
+14  :  cháy
+15  :  cho
+16  :  đau
+17  :  dạy dỗ
+18  :  ghét
+19  :  giúp
+20  :  hâm mộ
+21  :  hi sinh
+22  :  ho
+23  :  kết hôn, đám cưới
+24  :  khai báo
+25  :  khẩu trang
+26  :  khu cách ly
+27  :  lây bệnh
+28  :  lo lắng
+29  :  nghỉ ngơi
+30  :  nhớ
+31  :  nói xấu
+32  :  nôn ói
+33  :  phạt
+34  :  phỏng vấn
+35  :  phục hồi
+36  :  san sẻ
+37  :  sốt
+38  :  tập luyện
+39  :  thăm
+40  :  thất lạc
+41  :  thích
+42  :  thương
+43  :  ủ bệnh
+44  :  ủng hộ
+45  :  vâng lời
+46  :  virus
+47  :  xin phép
+48  :  xuất viện
+49  :  yêu
